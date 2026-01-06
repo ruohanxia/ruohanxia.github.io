@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<img src="{{ '/assets/profile.jpg' | relative_url }}" 
+     alt="Profile Picture" 
+     width="250" 
+     style="float:right; margin:0 0 10px 10px;">
+
 Hi, I'm Ruohan Xia. 
 
 I'm a data- and research-driven scientist working at the intersection of analytics, human behavior, and applied research. 
