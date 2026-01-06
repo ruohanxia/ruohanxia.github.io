@@ -11,5 +11,9 @@ With 7+ years of experience designing rigorous studies and analyzing complex hum
 
 I am motivated by work that bridges theory and practice - using data to answer meaningful questions, inform decisions, and create measurable impact across research, product, and policy contexts. 
 
-My Research Approach(/research)
-My Data Approach (/analytics)
+[💡Find out more about my research approach](/research)
+
+[📊Find out more about my data tools and projects](/analytics)
+
+
+
