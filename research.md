@@ -31,13 +31,13 @@ I examine infants'
 ### Qualitative behavioral coding
 
 ## Publications 
-Xia, R., Heise, M.J., & Bowman, L.C. (2024). Parental emotionality is related to preschool children’s neural responses to emotional faces: An event-related potential study. Social Cognitive and Affective Neuroscience, 19 (1). Doi: 10.1093/scan/nsad078.
-Xia, R., Pestana, Z., Frenkel, T. I., & Bowman, L. C. (2025, May 4). Infants' Neural Responses to Emotional Expressions in a Live, Naturalistic Interaction with Caregiver. https://doi.org/10.17605/OSF.IO/3BUWD
-Xia, R., Frenkel, T.I., & Bowman, L.C. (invited special issue, under review). From screens to live interactions: Considerations for live, naturalistic EEG paradigms in social and affective neuroscience. Developmental Cognitive Neuroscience.  
-Xia, R., Frenkel, T.I., & Bowman, L.C. (submitted). Maternal emotion reactivity moderates the relation between infants’ frontal EEG alpha asymmetry and affective reactive and regulatory behaviors. Developmental Science. 
+- Xia, R., Heise, M.J., & Bowman, L.C. (2024). Parental emotionality is related to preschool children’s neural responses to emotional faces: An event-related potential study. Social Cognitive and Affective Neuroscience, 19 (1). Doi: 10.1093/scan/nsad078
+- Xia, R., Pestana, Z., Frenkel, T. I., & Bowman, L. C. (2025, May 4). Infants' Neural Responses to Emotional Expressions in a Live, Naturalistic Interaction with Caregiver. https://doi.org/10.17605/OSF.IO/3BUWD
+- Xia, R., Frenkel, T.I., & Bowman, L.C. (invited special issue, under review). From screens to live interactions: Considerations for live, naturalistic EEG paradigms in social and affective neuroscience. Developmental Cognitive Neuroscience.
+- Xia, R., Frenkel, T.I., & Bowman, L.C. (submitted). Maternal emotion reactivity moderates the relation between infants’ frontal EEG alpha asymmetry and affective reactive and regulatory behaviors. Developmental Science. 
 
 ## Selected Awards
-UC Davis, Summer Research Fellowship 
-Fetal Infant and Toddler Neuroimaging Group, Young Investigator Award
-UC Davis, College of Letters and Science Dean's Graduate Summer Fellowship
-UC Davis, Provost's First Year Fellowship
+- UC Davis, Summer Research Fellowship
+- Fetal Infant and Toddler Neuroimaging Group, Young Investigator Award
+- UC Davis, College of Letters and Science Dean's Graduate Summer Fellowship
+- UC Davis, Provost's First Year Fellowship
