@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Research"
-permalink: /Research
+title: "My Research Approach"
+permalink: /research
+---
 
 # Research
 
