@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Research Approach"
+title: "Research"
 permalink: /research
 ---
 
