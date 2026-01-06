@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: "My Data Approach"
+title: "Data Tools & Analytics"
 permalink: /analytics
 ---
 
