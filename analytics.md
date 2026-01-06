@@ -1,5 +1,5 @@
 ---
-layout:page 
+layout: page 
 title: "My Data Approach"
 permalink: /analytics
 ---
