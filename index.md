@@ -18,7 +18,7 @@ I am motivated by work that bridges theory and practice - using data to answer m
 
 [💡Find out more about my academic research](/research)
 
-[📊Find out more about my data tools and projects](/analytics)
+[📊Find out more about how I work with data](/analytics)
 
 
 
