@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research
 ---
 
-## About
+## About My Research
 I am a developmental cognitive neuroscientist. I think about the brain, how it develops, and how different factors may contribute to the individual differences in its development to support more complex social cognition such as emotion perception and understanding. My primary neuroscientific method is electroencephlography (EEG), and I examine resting-state and event-related spectral power, as well as event-related potentials (ERPs). 
 
 I have two lines of research interest: 
