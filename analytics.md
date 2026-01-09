@@ -10,7 +10,7 @@ I’m a quantitative researcher who approaches analytics as a tool for solving r
 The projects below reflect my approach to analytics: thoughtful problem framing, careful method selection, and transparent, reproducible analysis.
 
 ## Flagship Projects
-### Modeling Caregiver Emotionality And Infant Neural Responses 
+### 1. Modeling Caregiver Emotionality And Infant Neural Responses 
 *Problem* 
 
 How do caregiver characteristics shape infants' neural responses to emotional cues - and how can we model these effects reliably in <u>noisy, longitudinal</u> data? 
@@ -21,10 +21,10 @@ Real-world analytics often involve noisy data and incomplete observations. These
 
 *Context*
 
-I analyzed multi-session EEG and behavioral interactive data from infants and caregivers to understand how environmental factors relate to early neural markers of emotion processing. The dataset included repeated measures, variable data quality, different pattern of missingness, and multiple sources of individual-level variability. 
+I analyzed multi-session EEG and interactive behavioral data from infants and caregivers to understand how environmental factors relate to early neural markers of emotion processing. The dataset included repeated measures, variable data quality, different pattern of missingness, and multiple sources of individual-level variability. 
 
 *Analytics Focus*
-- Build reproducible preprocessing pipelines for EEG-derived features
+- Built reproducible preprocessing pipelines for EEG-derived features
 - Cleaned and merged longitudinal behavioral and neural datasets
 - Modeled nested data structures using multilevel models
 - Conducted robustness checks across preprocessing thresholds and model specifications
@@ -39,7 +39,7 @@ I analyzed multi-session EEG and behavioral interactive data from infants and ca
 - MATLAB (EEGLAB, ERPLAB, EP Toolkit)
 - Python (Pandas, NumPy) 
 
-[View full analytic code on GitHub Repo](https://docs.google.com/document/d/1NPCjCWExJe8BTnrrEFJlk7niN26HeG87Q7e_mOdvBLA/edit?tab=t.0)
+[View full analytic code on GitHub Repo](INSERT LINK HERE LATER)
 
 ### 2. Pediatric Developmental Outcomes
 
