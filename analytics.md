@@ -17,7 +17,7 @@ How do caregiver characteristics shape infants' neural responses to emotional cu
 
 *Why this matters*
 
-Real-world analytics often involve noisy data and incomplete observations. These important variability calls for careful consideration in data handling and model selection to yield unbiased, accurate results. This project demonstrates how to build, evaluate, and defend analytical pipelines under these constrains - balancing data quality, sample size, statsitical rigor, and interpretability to produce insights that stakeholders can trust. 
+Real-world analytics often involve noisy data and incomplete observations. Such important variability calls for careful consideration in data handling and model selection to yield unbiased, accurate results. This project demonstrates how to build, evaluate, and defend analytical pipelines under these constrains - balancing data quality, sample size, statsitical rigor, and interpretability to produce insights that stakeholders can trust. 
 
 *Context*
 
@@ -39,10 +39,10 @@ I analyzed multi-session EEG and interactive behavioral data from infants and ca
 - MATLAB (EEGLAB, ERPLAB, EP Toolkit)
 - Python (Pandas, NumPy) 
 
-[View full analytic code on GitHub Repo](INSERT LINK HERE LATER)
+[View full analytic code on GitHub](INSERT LINK HERE LATER)
 
 ### 2. Pediatric Developmental Outcomes
 
 ### 3. Treatment Response & Safety Signals in Pediatric Populations
 
-### 4. Diginial Health Engagement & Retention 
+### 4. Digtal Health Engagement & Retention 
