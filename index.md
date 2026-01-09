@@ -16,9 +16,9 @@ With 7+ years of experience designing rigorous studies and analyzing complex hum
 
 I am motivated by work that bridges theory and practice - using data to answer meaningful questions, inform decisions, and create measurable impact across research, product, and policy contexts. 
 
-[💡Find out more about my academic research](/research)
+[💡 Find out more about my academic research](/research)
 
-[📊Find out more about how I work with data](/analytics)
+[📊 Find out more about how I work with data](/analytics)
 
 
 
