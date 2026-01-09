@@ -4,7 +4,7 @@ title: "Data Analytics"
 permalink: /analytics
 ---
 
-## About
+## About My Data & Analytic Approach
 I’m a quantitative researcher who approaches analytics as a tool for solving real-world problems. I work across R, SQL, MATLAB, and Python to clean, structure, and analyze complex datasets, selecting methods based on the question at hand rather than the tool itself. My experience spans advanced statistical modeling—including linear mixed-effects models, structural equation models, and time-series analysis—as well as building reproducible analytic pipelines and translating results into clear, actionable insights. 
 
 The projects below reflect my approach to analytics: thoughtful problem framing, careful method selection, and transparent, reproducible analysis.
